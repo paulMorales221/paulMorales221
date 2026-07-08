@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Paul Andrés Morales Béjar 👋
 
-<!--
-**paulMorales221/paulMorales221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Development student currently in my 5th quarter, passionate about building applications that solve real-world problems and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+* 🎓 Currently studying at UTCH BIS.
+* 🌏 Preparing for my upcoming academic mobility in Wuhan (September 2026).
+* 🗣️ I enjoy learning languages; I currently hold a B1 level in French.
+* 🌱 Always looking to improve my skills in software architecture and mobile development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+**Frontend & Mobile:**
+* React
+* React Native
+
+**Backend & Databases:**
+* Node.js
+* Python
+* SQL
+
+## 🛠️ Featured Projects
+* **[FinBalance]:** A financial management application designed to automate and simplify accounting for users, transitioning them away from manual records. *(Role: Lead Developer)*
+* **[GeoSpike]:** A research project focused on designing smart sensor networks for Martian soil analysis in space exploration.
+
+## 📫 How to reach me
+* ✉️ [Email](mailto:paul.mostacho52@gmail.com)
