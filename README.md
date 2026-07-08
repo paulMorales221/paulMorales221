@@ -23,4 +23,4 @@ I am a Software Development student currently in my 5th quarter, passionate abou
 * **[GeoSpike]:** A research project focused on designing smart sensor networks for Martian soil analysis in space exploration.
 
 ## 📫 How to reach me
-* ✉️ [Email](paul.mostacho52@gmail.com)
+* ✉️ [Email](mailto:paul.mostacho52@email.com)
