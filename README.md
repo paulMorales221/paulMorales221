@@ -22,5 +22,4 @@ I am a Software Development student currently in my 5th quarter, passionate abou
 * **[FinBalance]:** A financial management application designed to automate and simplify accounting for users, transitioning them away from manual records. *(Role: Lead Developer)*
 * **[GeoSpike]:** A research project focused on designing smart sensor networks for Martian soil analysis in space exploration.
 
-## 📫 How to reach me
-* ✉️ [Email](mailto:paul.mostacho52@email.com)
+
